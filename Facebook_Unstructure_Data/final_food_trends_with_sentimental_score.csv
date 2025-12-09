@@ -1,4 +1,4 @@
-Customer_ID,User_Name,Product_Name,Product_ID,User_ID,Facebook_ID,Comment,Sentiment,Sentimental_Score,Rating
+/;Customer_ID,User_Name,Product_Name,Product_ID,User_ID,Facebook_ID,Comment,Sentiment,Sentimental_Score,Rating
 cous__.01,Mira,prod__.01,PID005001,https://www.facebook.com/vukkarvibes,1397040301788260,Not satisfied.,Neutral,0.0,5
 cous__.02,Sita,prod__.02,PID005002,https://www.facebook.com/vukkarvibes,1397040301788261,"Not good, expected better.",Negative,-0.674,1
 cous__.03,Rohan,prod__.03,PID005003,https://www.facebook.com/vukkarvibes,1397040301788262,"Not good, expected better.",Positive,0.885,5
